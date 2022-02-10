@@ -14,6 +14,7 @@
         <module>Models</module>
         <module>View</module>
         <module>TestModule</module>
+	<module>User</module>
     </modules>
     <dependencies>
     	<dependency>
